@@ -1,0 +1,15 @@
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\module-info.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\CineMax.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\controller\MainController.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\enums\TipoEntrada.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\model\Cliente.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\model\Combo.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\model\Entrada.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\model\Funcion.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\model\Pelicula.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\model\Venta.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\repository\ClienteRepository.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\repository\PeliculaRepository.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\service\ClienteService.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\service\PeliculaService.java
+D:\POOg4\Desarrollo\POO-Figgo\CineMax\src\main\java\pe\edu\upeu\cinemax\service\VentaService.java

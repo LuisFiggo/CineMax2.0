@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?><?import javafx.scene.layout.*?>
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="pe.edu.upeu.cinemax.controller.MainController" styleClass="root" stylesheets="/css/style.css">
+ <top><Label text="CINEMAX" styleClass="title"/></top>
+ <center><HBox spacing="25" padding="25">
+  <VBox spacing="12" prefWidth="480"><Label text="Venta de entradas" styleClass="section"/><Label text="Cliente"/><TextField fx:id="clienteField" promptText="Nombre del cliente"/><Label text="Película"/><ComboBox fx:id="peliculaBox" onAction="#actualizarPrecio"/><Label text="Horario"/><ComboBox fx:id="horarioBox"/><Label text="Tipo de entrada"/><ComboBox fx:id="tipoBox" onAction="#actualizarPrecio"/><Label text="Asiento"/><TextField fx:id="asientoField" promptText="Ejemplo: G12"/><Label text="Precio"/><Label fx:id="precioLabel" text="S/ 0.00"/><Button text="Agregar entrada" onAction="#agregarEntrada"/><Button text="Agregar combo grande - S/ 10" onAction="#agregarCombo"/><HBox spacing="10"><Button text="Generar boleta" onAction="#generarBoleta"/><Button text="Limpiar" onAction="#limpiar"/></HBox></VBox>
+  <VBox spacing="12" prefWidth="430"><Label text="Boleta" styleClass="section"/><TextArea fx:id="boletaArea" editable="false" prefHeight="480"/><HBox spacing="10"><Label text="TOTAL:"/><Label fx:id="totalLabel" text="S/ 0.00" styleClass="total"/></HBox></VBox>
+ </HBox></center>
+</BorderPane>
